@@ -1,19 +1,21 @@
-# aprendendoRust
+# Aprendendo a Linguagem Rust
 
 ### Estou usando o Windows
 
-https://www.rust-lang.org/tools/install
+[Rust Lang](https://www.rust-lang.org/tools/install)
 
 ## Instalando em ambiente Linux, MacOS ou Unix:
 
-<code> 
+``` 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
-</code>
+```
 
 ## Comandos utilizados:
 
 ### Depois de ter instalado, você pode verificar a versão com o comando:
-<code>rustc --version</code>
+```
+rustc --version
+```
 
    7 rustup update
    8 ls
