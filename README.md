@@ -2,8 +2,9 @@
 
 https://www.rust-lang.org/tools/install
 
-comandos utilizados
-   3 rustc --version
+## Comandos utilizados:
+
+<code>rustc --version</code>
 
    7 rustup update
    8 ls
