@@ -1,9 +1,12 @@
 # aprendendoRust
 
+### Estou usando o Windows
+
 https://www.rust-lang.org/tools/install
 
 ## Comandos utilizados:
 
+### Depois de ter instalado, você pode verificar a versão com o comando:
 <code>rustc --version</code>
 
    7 rustup update
